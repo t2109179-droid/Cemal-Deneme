@@ -1,0 +1,14 @@
+# Hayat - Müzik Çalar 🎵
+
+iOS tarzı dairesel kaydırma (wheel picker) arayüzüne sahip, modern ve mobil uyumlu bir web müzik çalar uygulaması.
+
+## Özellikler
+- 🎡 Akıcı dairesel sanatçı ve şarkı seçici (Wheel Picker)
+- 📱 Tam ekran ve mobil odaklı modern arayüz (Glassmorphism tasarım)
+- 🎧 Web Audio API ve Media Session API entegrasyonu (Kilit ekranı kontrolü)
+- ⚡ Tailwind CSS altyapısı
+
+## Kullanılan Teknolojiler
+- HTML5 / CSS3
+- Vanilla JavaScript
+- Tailwind CSS
